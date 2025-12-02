@@ -46,4 +46,6 @@ Fullstack developer passionate about **technology** and **design** from Brazil. 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caiopa22&layout=compact&theme=dark&hide_border=true)
 
+![Profile views](https://komarev.com/ghpvc/?username=caiopa22&color=blue&style=for-the-badge)
+
 ---
