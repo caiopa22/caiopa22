@@ -1,11 +1,11 @@
 # Hey there, I'm Caio 👋
 
-Fullstack developer passionate about **technology** and **design** from Brazil. Computer Science student (6/8).
+Fullstack developer passionate about **technology** and **design** from Brazil. Computer Science student (4/4).
 
 ---
 
 ## 💻 Skills & Technologies
-<div style="display: flex; gap: 12; flex-wrap: wrap;">
+<div style="display: flex; gap: 12; flex-wrap: wrap">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot"/>
