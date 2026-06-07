@@ -26,9 +26,9 @@ Fullstack developer passionate about **technology** and **design** from Brazil. 
 
 ## What I'm Currently focusing
 
-- **Focus on Java (Spring Boot)** - Building scalable backend solutions
-- **Improving design & UX skills** - Creating beautiful interfaces
-- **Working on challenging projects** - Always pushing boundaries
+- **Focus on Node**
+- **Improving design & UX skills**
+- **Working on challenging projects**
 
 ---
 
