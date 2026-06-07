@@ -42,9 +42,9 @@ Fullstack developer passionate about **technology** and **design** from Brazil. 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caiopa22&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=caiopa22&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caiopa22&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=caiopa22&layout=compact&theme=dark)
 
 ![Profile views](https://komarev.com/ghpvc/?username=caiopa22&color=blue&style=for-the-badge)
 
