@@ -36,7 +36,7 @@ flowchart LR
 | | |
 |:--|:--|
 | **Front-end** | <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind" alt="React, TypeScript, JavaScript, Tailwind CSS" height="40"> |
-| **Back-end** | <img src="https://skillicons.dev/icons?i=java,spring,nodejs,py,fastapi,flask,graphql" alt="Java, Spring Boot, Node.js, Python, FastAPI, Flask, GraphQL" height="40"> |
+| **Back-end** | <img src="https://skillicons.dev/icons?i=java,spring,nodejs,py,fastapi,graphql" alt="Java, Spring Boot, Node.js, Python, FastAPI, GraphQL" height="40"> |
 | **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase" alt="MySQL, PostgreSQL, MongoDB, Supabase" height="40"> |
 | **DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=docker,githubactions,azure,git" alt="Docker, GitHub Actions, Azure, Git" height="40"> |
 | **Testing & Design** | <img src="https://skillicons.dev/icons?i=jest,figma" alt="Jest, Figma" height="40"> |
@@ -56,23 +56,6 @@ flowchart LR
 
 **Tech:** Java · Spring Boot · Maven · MySQL · React · Node.js · Figma
 *The repository is private and the application is currently offline.*
-
----
-
-### 📦 [API Pedidos](https://github.com/caiopa22/api-pedidos) — Order management API
-Academic group project: a REST API for order management with full CRUD, database migrations, interactive Swagger documentation and a reproducible setup through Docker Compose.
-
-```mermaid
-flowchart LR
-    C(["Client / Swagger UI"]) --> A["FastAPI<br/>routes → services → models"] --> P[("PostgreSQL 16")]
-    M["Alembic migrations"] -.-> P
-    subgraph Docker Compose
-    A
-    P
-    end
-```
-
-**Tech:** Python · FastAPI · SQLAlchemy · PostgreSQL · Alembic · Docker
 
 ---
 
@@ -164,7 +147,7 @@ timeline
 - Agile workflow with Jira; AI tools (Gemini CLI, GitHub Copilot) to boost productivity and code quality
 
 **BASF — Full Stack Developer & AI Intern** *(Sep/2024 – Jan/2026)*
-- Web applications and interactive systems with React, Java (Spring Boot) and Python (FastAPI, Flask)
+- Web applications and interactive systems with React, Java (Spring Boot) and Python (FastAPI)
 - AI-integrated applications: chatbots and data dashboards using OpenAI APIs and Machine Learning models
 - Unit tests with Jest and JUnit, following Clean Code and SOLID principles
 - Worked with cross-functional teams (Kanban, Scrum); created UX/UI prototypes and project documentation
