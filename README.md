@@ -88,13 +88,6 @@ flowchart LR
     AG -- "persists conversations" --> DB
 ```
 
-**Highlights**
-- 📡 **Reliable ingestion:** the firmware sends batches every 5 minutes and retries up to 3 times reusing the same `batch_id`; a unique constraint on `device_id + batch_id + sensor_index` prevents duplicate records when a network response is lost.
-- 🔐 **Two authentication layers:** users sign in through Supabase Auth (Bearer token), while each ESP32 has its own device key, stored only as a SHA-256 hash and sent in the `X-Device-Key` header.
-- 🧪 **Raw value preserved:** every reading keeps the raw ADC value (`raw_value`) next to the calculated percentage (`humidity_pct`), so the conversion can always be audited.
-- 📊 **Dashboard:** device and sensor selection, history, Recharts charts and online/offline status, with polling roughly every 3 minutes.
-- 🤖 **Earth Agent:** on-demand analysis and chat, with conversations persisted in the database. It is optional and never required for data ingestion.
-
 **Tech:** ESP32 · Arduino · Node.js · Express 5 · TypeScript · React 19 · Vite · Tailwind CSS · Recharts · Supabase (PostgreSQL + Auth) · Google Gemini API
 
 <details>
