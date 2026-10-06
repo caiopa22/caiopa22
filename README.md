@@ -28,7 +28,7 @@ flowchart LR
     A["🎨 Design<br/>Figma · UX/UI"] --> B["⚛️ Front-end<br/>React · TypeScript"]
     B --> C["⚙️ API<br/>Spring Boot · Node.js · FastAPI"]
     C --> D[("🗄️ Data<br/>MySQL · PostgreSQL · MongoDB")]
-    C --> E["🚀 Ship<br/>Docker · GitHub Actions"]
+    D --> E["🚀 Ship<br/>Docker · GitHub Actions"]
 ```
 
 ## 🛠️ Tech stack
