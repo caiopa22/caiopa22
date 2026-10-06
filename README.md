@@ -14,9 +14,9 @@
 
 ## 👋 About me
 
-Full Stack Developer with 2+ years of experience across the whole software development lifecycle, from architecture design to front-end and back-end implementation. I like building scalable web and mobile applications, integrating APIs and developing AI-powered solutions, always aiming for clean, maintainable code.
+Full Stack Developer with 2+ years of experience across the whole software development lifecycle, from architecture design to front-end and back-end implementation. I like building scalable web and mobile applications and integrating APIs, always aiming for clean, maintainable code.
 
-I'm finishing my **Computer Science** degree at **Universidade Paulista (UNIP)** and currently work as a Full Stack Developer at **Natura**. Design and UX are part of how I build: I prototype in Figma before writing the first component.
+I'm finishing my **Computer Science** degree at **Universidade Paulista (UNIP)** and currently work as a Full Stack Developer at **Natura**. Design and UX are part of how I build: Design and UX are part of how I build: I design interfaces in Figma and implement them in code.
 
 > [!NOTE]
 > Code from my professional work is not public, so this profile highlights my academic and personal projects.
