@@ -117,22 +117,25 @@ The curves showed slow variation overnight and sharper drops during the reported
 
 </details>
 
-> [!NOTE]
-> EarthSense is a monitoring prototype: it does not control irrigation or actuators, and it does not replace professional agronomic assessment.
+<details>
+<summary><b>🗺️ Journey</b></summary>
 
-## 🗺️ Journey
+<br>
 
 ```mermaid
 timeline
     title Journey
     2023 : Started Computer Science at UNIP
     2024 : Started JoypadJudge, a solo full stack project
-         : BASF, Full Stack Developer and AI Intern
+         : BASF, Full Stack Developer and AI Intern (Sep/2024 – Jan/2026)
     2025 : Sunna, Freelance Full Stack Developer
-    2026 : Natura, Full Stack Developer
+    2026 : BASF internship ended (Jan)
+         : Natura, Full Stack Developer
          : EarthSense, capstone project
          : Graduating from UNIP
 ```
+
+</details>
 
 <details>
 <summary><b>💼 Experience details</b></summary>
