@@ -25,9 +25,9 @@ I'm finishing my **Computer Science** degree at **Universidade Paulista (UNIP)**
 
 ```mermaid
 flowchart LR
-    A["🎨 Design<br/>Figma · UX/UI"] --> B["⚛️ Front-end<br/>React · TypeScript"]
-    B --> C["⚙️ API<br/>Spring Boot · Node.js · FastAPI"]
-    C --> D[("🗄️ Data<br/>MySQL · PostgreSQL · MongoDB")]
+    A["⚙️ Back-end<br/>Spring Boot · Node.js · FastAPI"] --> B[("🗄️ Database<br/>MySQL · PostgreSQL · MongoDB")]
+    B --> C["🎨 Design<br/>Figma · UX/UI"]
+    C --> D["⚛️ Front-end<br/>React · TypeScript"]
     D --> E["🚀 Ship<br/>Docker · GitHub Actions"]
 ```
 
