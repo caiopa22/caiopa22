@@ -16,20 +16,10 @@
 
 Full Stack Developer with 2+ years of experience across the whole software development lifecycle, from architecture design to front-end and back-end implementation. I like building scalable web and mobile applications and integrating APIs, always aiming for clean, maintainable code.
 
-I'm finishing my **Computer Science** degree at **Universidade Paulista (UNIP)** and currently work as a Full Stack Developer at **Natura**.
+I'm finishing my **Computer Science** degree at **Universidade Paulista (UNIP)** and currently work as a Full Stack Developer at **GFT Technologies**.
 
 > [!NOTE]
 > Code from my professional work is not public, so this profile highlights my academic and personal projects.
-
-## 🧭 How I build
-
-```mermaid
-flowchart LR
-    A["⚙️ Back-end<br/>Spring Boot · Node.js · FastAPI"] --> B[("🗄️ Database<br/>MySQL · PostgreSQL · MongoDB")]
-    B --> C["🎨 Design<br/>Figma · UX/UI"]
-    C --> D["⚛️ Front-end<br/>React · TypeScript"]
-    D --> E["🚀 Ship<br/>Docker · GitHub Actions"]
-```
 
 ## 🛠️ Tech stack
 
